@@ -1,7 +1,7 @@
 # OpenAI (OPENAI) 🔶🔴
 
 ## Watchlist Status
-> 🔶🔴 **PRIVATE / MEGA CAP — The most valuable private company in history.** [Evaluating late 2026 IPO; $122B funding round closed March 2026].
+> 🔶🔴 **PRIVATE / MEGA CAP — The most valuable private company in history.** [Evaluating late 2026 IPO; record $122B funding round closed March 2026].
 
 ---
 
@@ -13,28 +13,28 @@
 To ensure that artificial general intelligence (AGI) benefits all of humanity.
 
 **2. TEAM & DRIVE**
-Led by Sam Altman. Strong focus on compute-scaling and enterprise-grade deployment. Recently strengthened board and executive team following 2024 governance shifts.
+Led by Sam Altman. Master of capital aggregation and compute scaling. In early 2026, Altman launched the "Stargate" project, a $500B data center initiative with SoftBank and Oracle.
 
 **3. PRODUCTS, SERVICES & GOALS**
-ChatGPT (Consumer/Enterprise), API services, Search (SearchGPT), and upcoming AI Hardware device. Goal: Building the foundational model layer for the entire global economy.
+ChatGPT (900M+ weekly active users), GPT-5.4 suite (including the Cyber variant for defensive security), and SearchGPT. Goal: Dominance of the foundational model layer despite intense pressure from Anthropic.
 
 **4. KEY METRICS IN 2–3 YEARS**
-- Annual Revenue: $50B+ (2025: $20B)
-- Advertising Revenue: $10B+
-- Compute Capacity: 20 GW+
+- Annual Revenue: $50B+ (Feb 2026: $25B ARR)
+- Compute Capacity: 50 GW+ (via Stargate)
+- Net Loss: Targeting breakeven by 2029 (2026 projected loss: $14B)
 
 **5. PRICE CATALYSTS**
-- OpenAI IPO Filing (Expected Late 2026)
-- AI Hardware unveiling (H2 2026)
+- OpenAI IPO Filing (Expected Q4 2026)
+- Stargate Phase 1 Power-up (H2 2026)
 
 **6. ENTRY PRICE ANCHOR**
 N/A (Private) — Recent funding at $852B valuation.
 
 **7. THESIS KILLER**
-Extreme compute costs outpacing revenue growth (negative margin spiral) or the emergence of a highly efficient open-source model that commoditizes GPT-5.
+The emergence of highly efficient, revenue-superior competitors (like Anthropic) that out-monetize the developer layer, or the collapse of the compute-scaling laws (diminishing returns on investment).
 
 **8. INVESTMENT HYPOTHESIS**
-OpenAI is the "Standard Oil" of the AI era. Its first-mover advantage in data, compute partnerships (Microsoft/NVIDIA), and developer ecosystem creates a moat that is currently being underwritten at a near-trillion dollar valuation.
+OpenAI is the "Standard Oil" of the AI era. Its first-mover advantage in data and massive capital moat ($122B round) underwrite its near-trillion dollar valuation. However, the 2026 revenue flip—where Anthropic reportedly surpassed OpenAI in ARR ($30B vs $25B)—highlights that raw compute is no longer a guaranteed moat.
 
 ---
 
@@ -42,9 +42,9 @@ OpenAI is the "Standard Oil" of the AI era. Its first-mover advantage in data, c
 
 **MISSION** — Ensure AGI benefits all humanity by building the foundational intelligence layer of the world.
 
-**TEAM** — Sam Altman (CEO), a master of capital aggregation and compute scaling.
+**TEAM** — Sam Altman (CEO), a visionary in large-scale capital deployment and compute infrastructure.
 
-**THESIS KILLER** — AGI development reaches a "plateau" where incremental compute yields diminishing returns, breaking the $1T valuation case.
+**THESIS KILLER** — Scaling laws hit a plateau, rendering the $500B "Stargate" compute project a stranded asset.
 
 ---
 

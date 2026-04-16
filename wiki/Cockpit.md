@@ -22,27 +22,9 @@
 | **AI & Future** | [Multimodal AI](Themes/multimodal-ai-diagnostics.md) · [Quantum Computing](Themes/quantum-computing.md) · [Space Tech](Themes/space-technology.md) · [Air Mobility](Themes/advanced-air-mobility.md) |
 | **Platforms** | [Synthetic Biology](Themes/synthetic-biology.md) · [Computational Discovery](Themes/computational-drug-discovery.md) · [Precision Diagnostics](Themes/precision-diagnostics.md) |
 
----
-
-- [📊 Watchlist](#-watchlist)
-    - [CONVICTION BUY](#-conviction-buy)
-    - [WATCHLIST / ALERT](#-watchlist--alert)
-    - [LOVE THE STORY, WAIT](#-love-the-story-wait)
-    - [WAIT](#-wait)
-    - [SPECULATIVE / SMALL](#-speculative--small)
-    - [MONITOR ONLY](#-monitor-only)
-    - [THEMATIC ETFS](#-thematic-etfs)
-- [🚨 Active Alerts](#-active-alerts--act-on-these)
-- [📡 Latest Signals](#-latest-signals-genomic-revolution-focus)
-
----
 
 ## 📊 WATCHLIST
-
----
-
 ### 🎯 CONVICTION BUY
-
 #### [SQ](Companies/SQ.md) — Block Inc.
 * **Theme:** [Fintech Innovation](Themes/fintech.md)
 * **Scores:** Story 91 🔵 | Ten-X 84 🔵 | Price 72 🟢
@@ -160,11 +142,20 @@
 
 #### [OKLO](Companies/OKLO.md) — Oklo Inc.
 * **Theme:** [Uranium & Nuclear Energy](Themes/uranium-nuclear-energy.md)
-* **Scores:** Story 73 🟡 | Price 41 🔴 ⚠️
+#### [OKLO](Companies/OKLO.md) — Oklo Inc.
+**Scores:** Story 73 🟡 | Price 41 🔴 ⚠️
 **Profile:** ~$10B ⚠️ | NYSE | portable-nuclear-energy
 **Decision:** LOVE THE STORY, WAIT — Exceptional Altman/AI story but price is overextended.
 **Status:** ⚠️ — NRC Aurora design review active; 500MW PPA signed.
   * **Watch:** NRC licensing milestones; fuel (HALEU) supply chain security
+
+#### [AIR](Companies/AIR.md) — AAR Corp
+**Scores:** Story 76 🟢 | Ten-X 52 🟡 | Price 48 🔴
+**Profile:** ~$5.0B ⚠️ | NYSE | defense-innovation
+**Decision:** LOVE THE STORY, WAIT — Aviation aftermarket leader with strong defense momentum.
+**Status:** ⚠️ — FY2026 Revenue +25%. Integrating HAECO Americas; $305M Navy contract.
+  * **Watch:** Investor Day May 12; HAECO integration milestones
+  * **Risk:** Aviation cycle peak; major defense spending cuts
 
 ---
 
@@ -301,6 +292,7 @@
 |:--- |:--- |:--- |:--- |
 | [QTUM](Companies/QTUM.md) | Defiance Quantum ETF | Quantum Computing & ML Hardware | 🔶 |
 | [ARKW](Companies/ARKW.md) | ARK Next Gen Internet | Cloud, Cyber, Digital Assets | 🔶 |
+| [AAKI](Companies/AAKI.md) | ARK AI & Robotics | European AI Benchmark (UCITS) | 🔶 |
 
 #### **Robotics & Autonomous Tech**
 | Ticker | ETF Name | Focus | Status |

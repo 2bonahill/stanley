@@ -1,6 +1,6 @@
 # Wiki Index
 > My starting point for every query. Read this first, then drill into linked pages.
-> **Updated:** 2026-04-16 | **Companies:** 75 | **Themes:** 35
+> **Updated:** 2026-04-16 | **Companies:** 95 | **Themes:** 35
 
 ---
 
@@ -21,8 +21,10 @@
 | NRIX | [Companies/NRIX](Companies/NRIX.md) | 78 🟢 | — | 70 🟢 | CONVICTION BUY | \$1.75B | multimodal-ai-diagnostics | Phase 3 trial start mid-2026 |
 | [WRD](Companies/WRD.md) | 78 🟢 | — | 74 🟢 | CONVICTION BUY | ~$2.5B | AI-robotics-autonomy | Q1 earnings May 21; Uber/Grab ramp |
 | ACHR | [Companies/ACHR](Companies/ACHR.md) | 78 🟢 | 74 🟢 | 52 🟡 | SPECULATIVE / SMALL | ~$4.5B | advanced-air-mobility | FAA Type Cert H2 2026; UAE Launch 2026 |
+| MBLY | [Companies/MBLY](Companies/MBLY.md) | 78 🟢 | — | 60 🟡 | MONITOR ONLY | ~$6.5B ⚠️ | AI-robotics-autonomy | EyeQ6 ramp H2 2026 |
 | TMDX | [Companies/TMDX](Companies/TMDX.md) | 77 🟢 | 71 🟢 | 70 🟢 | CONVICTION BUY | $3.91B | medtech-organ-care | ENHANCE trial data; CEO open-market buying |
 | ADPT | [Companies/ADPT](Companies/ADPT.md) | 77 🟢 | — | 62 🟡 | WATCHLIST / ALERT | \$2.24B | next-gen-sequencing | MRD volume growth May 5 |
+| AIR | [Companies/AIR](Companies/AIR.md) | 76 🟢 | 52 🟡 | 48 🔴 | LOVE STORY WAIT | ~$150B 🔶🔴 | defense-innovation | Global aerospace dominance |
 | PSNL | [Companies/PSNL](Companies/PSNL.md) | 76 🟢 | 88 🔵 | 72 🟢 | CONVICTION BUY | ~$693M | liquid-biopsy-mrd | 5x clinical vol growth 2026 |
 | IONQ | [Companies/IONQ](Companies/IONQ.md) | 75 🟢 | 78 🟢 | 47 🔴 | LOVE STORY WAIT | ~$10.56B ⚠️ | quantum-computing | 256-qubit 6th-gen demo 2026; SkyWater close |
 | BWXT | [Companies/BWXT](Companies/BWXT.md) | 75 🟢 | — | 60 🟡 | WAIT 🔶 | ~$21.8B 🔶 | uranium-nuclear-energy | First SMR order 2026 |
@@ -34,6 +36,7 @@
 | LEU | [Companies/LEU](Companies/LEU.md) | 74 🟢 | — | 60 🟡 | MONITOR ONLY | ~$1.5B | uranium-nuclear-energy | DOE HALEU tranches |
 | [OKLO](Companies/OKLO.md) | 73 🟡 | — | 41 🔴 | LOVE STORY WAIT | ~$10B ⚠️ | uranium-nuclear-energy | NRC license review progress 2026 |
 | NNE | [Companies/NNE](Companies/NNE.md) | 73 🟡 | — | 41 🔴 | WAIT | ~$1.27B | uranium-nuclear-energy | NRC CPA filing May 2026 |
+| BZ | [Companies/BZ](Companies/BZ.md) | 73 🟡 | — | 55 🟡 | MONITOR ONLY | ~$6.55B ⚠️ | AI-automation | AI-recruitment scale-up |
 | ARCT | [Companies/ARCT](Companies/ARCT.md) | 72 🟡 | — | 58 🟡 | SPECULATIVE | \$240M | multimodal-ai-diagnostics | ARCT-032 Phase 2 start H1 2026 |
 | ABSI | [Companies/ABSI](Companies/ABSI.md) | 72 🟡 | 84 🔵 | 68 🟡 | WATCHLIST / ALERT | ~$450M | multimodal-ai-diagnostics | Large Pharma deal 2026; ABS-201 POC 2H 2026 |
 | IRDM | [Companies/IRDM](Companies/IRDM.md) | 72 🟡 | — | 68 🟢 | WATCHLIST / ALERT | ~$4.0B | space-technology | NTN Direct smartphone launch H2 2026 |
@@ -71,15 +74,15 @@
 | ABCL | [Companies/ABCL](Companies/ABCL.md) | 56 🟡 | — | 76 🟢 | SPECULATIVE / SMALL | $1.07B | biotech-antibody-platform | ABCL635 Phase 2 Q3 2026; CEO buying at $2.16 |
 | INFQ | [Companies/INFQ](Companies/INFQ.md) | 54 🟡 | — | 33 🔴 | WAIT | $2.73B | quantum-computing | NVIDIA NVQLink; 30 logical qubits EOY 2026 |
 | VKTX | [Companies/VKTX](Companies/VKTX.md) | 53 🟡 | — | 38 🔴 | WAIT | ~$3.97B | biotech-obesity | Oral Phase 3 Q3 2026; CEO/CFO selling ⚠️ |
+| PRLB | [Companies/PRLB](Companies/PRLB.md) | 52 🟡 | — | 68 🟡 | WATCHLIST / ALERT | ~$1.47B | 3d-printing | High-resolution medical 3D scale-up |
 | ONDS | [Companies/ONDS](Companies/ONDS.md) | 51 🟡 | — | 48 🔴 | WAIT | $4.40B | drone-autonomy-defense | World View + FIFA contract; 2026 guidance $375M+ |
-| BZ | — | — | — | MONITOR ONLY | ~$6.2B ⚠️ | AI-automation | AI-recruitment scale-up |
-| MBLY | — | — | — | MONITOR ONLY | ~$6.5B ⚠️ | AI-robotics-autonomy | Q1 earnings Apr 23; EyeQ6 ramp |
-| BIOA | [Companies/BIOA](Companies/BIOA.md) | 48 🔴 | — | 38 🔴 | PASS | $718M | biotech-aging | BGE-102 Phase 2a CV H2 2026 — upgrade trigger |
 | SSYS | [Companies/SSYS](Companies/SSYS.md) | 48 🔴 | — | 72 🟢 | PASS | \$740M | 3d-printing | TrueDent Europe ramp |
+| BIOA | [Companies/BIOA](Companies/BIOA.md) | 48 🔴 | — | 38 🔴 | PASS | $718M | biotech-aging | BGE-102 Phase 2a CV H2 2026 — upgrade trigger |
 | QBTS | [Companies/QBTS](Companies/QBTS.md) | 47 🔴 | — | 19 🔴 | PASS ⚠️ | $5.27B ⚠️ | quantum-computing | Gate-model products 2026 — bellwether only |
 | RCAT | [Companies/RCAT](Companies/RCAT.md) | 45 🔴 | — | 35 🔴 | PASS | ~$1.50B | drone-autonomy-defense | Army SRR delivery; CEO selling $20M+ ⚠️ |
 | QUBT | [Companies/QUBT](Companies/QUBT.md) | 38 🔴 | — | 42 🔴 | PASS | $1.59B | quantum-computing | TFLN foundry external customers — upgrade trigger |
 | DDD | [Companies/DDD](Companies/DDD.md) | 38 🔴 | — | — | PASS | \$313M | 3d-printing | Bioprinting human trial progress |
+| IRBT | [Companies/IRBT](Companies/IRBT.md) | 32 🔴 | — | 62 🟡 | PASS | \$120M | AI-robotics-autonomy | Consumer robotics turnaround |
 | XRAY | [Companies/XRAY](Companies/XRAY.md) | 32 🔴 | — | — | PASS | \$2.42B | precision-diagnostics | Dental MRI commercialization |
 
 ### Benchmarks & Large Cap 🔶
@@ -88,13 +91,24 @@
 | Ticker | File | Cap | Theme | Key signal |
 |--------|------|-----|-------|------------|
 | OPENAI | [Companies/OPENAI](Companies/OPENAI.md) | \$852B 🔶🔴 | AI-robotics-autonomy | Most valuable private company; $122B round |
-| SHOP | [Companies/SHOP](Companies/SHOP.md) | \$166B 🔶🔴 | fintech | Commerce OS; Profitable asset-light pivot |
+| ASML | [Companies/ASML](Companies/ASML.md) | \$564B 🔶🔴 | semiconductor-ai-infrastructure | Lithography monopoly; AI demand surge |
+| MU | [Companies/MU](Companies/MU.md) | \$515B 🔶🔴 | semiconductor-ai-infrastructure | Memory supercycle; HBM capacity sold out |
 | NVDA | [Companies/NVDA](Companies/NVDA.md) | \$4.87T 🔶🔴 | AI-robotics-autonomy | World's most valuable company; AI data center demand |
 | GOOG | [Companies/GOOG](Companies/GOOG.md) | \$4.08T 🔶🔴 | AI-robotics-autonomy | Dominant in AI infrastructure; 116% MC increase YoY |
 | AVGO | [Companies/AVGO](Companies/AVGO.md) | \$1.88T 🔶🔴 | AI-robotics-autonomy | Q1 2026 revenue \$19.31B; net margin 36.6% |
 | TSM | [Companies/TSM](Companies/TSM.md) | \$1.88T 🔶🔴 | AI-robotics-autonomy | Q1 2026 revenue +40.6% YoY; gross margin 66.2% |
+| AIR | [Companies/AIR](Companies/AIR.md) | \$150B 🔶🔴 | defense-innovation | Global aerospace leader; record backlog |
+| INTC | [Companies/INTC](Companies/INTC.md) | \$342B 🔶🔴 | semiconductor-ai-infrastructure | Foundry turnaround; Musk partnership |
+| LRCX | [Companies/LRCX](Companies/LRCX.md) | \$331B 🔶🔴 | semiconductor-ai-infrastructure | Wafer fab equipment leader; adv packaging |
+| AMAT | [Companies/AMAT](Companies/AMAT.md) | \$314B 🔶🔴 | semiconductor-ai-infrastructure | Semi equipment giant; AI-driven guidance |
+| SHOP | [Companies/SHOP](Companies/SHOP.md) | \$166B 🔶🔴 | fintech | Commerce OS; Profitable asset-light pivot |
+| HON | [Companies/HON](Companies/HON.md) | \$147B 🔶🔴 | defense-innovation | Splitting into 3 cos by Q3 2026 |
+| LMT | [Companies/LMT](Companies/LMT.md) | \$143B 🔶🔴 | defense-innovation | Defense prime; record \$194B backlog |
 | MRVL | [Companies/MRVL](Companies/MRVL.md) | \$117B 🔶🔴 | semiconductor-ai-infrastructure | Custom AI XPUs; NVIDIA $2B investment |
 | HOOD | [Companies/HOOD](Companies/HOOD.md) | ~$79B 🔶🔴 | fintech | SEC rule change (PDT) catalyst |
+| DASH | [Companies/DASH](Companies/DASH.md) | \$75B 🔶🔴 | fintech | Global delivery platform; autonomous expansion |
+| COHR | [Companies/COHR](Companies/COHR.md) | \$60B 🔶🔴 | photonics-manufacturing | 1.6T transceiver demand for AI centers |
+| NOK | [Companies/NOK](Companies/NOK.md) | \$58B 🔶🔴 | photonics-manufacturing | AI-RAN pivot; NVIDIA partnership |
 | COIN | [Companies/COIN](Companies/COIN.md) | ~$51.7B 🔶🔴 | fintech | Everything Exchange; OCC Trust Bank |
 | AMD | [Companies/AMD](Companies/AMD.md) | \$432.5B 🔶🔴 | AI-robotics-autonomy | All-time highs; revenue +34% TTM |
 | CAT | [Companies/CAT](Companies/CAT.md) | \$371.0B 🔶🔴 | AI-robotics-autonomy | TTM revenue \$67.6B; infrastructure recovery |
@@ -104,12 +118,16 @@
 | TER | [Companies/TER](Companies/TER.md) | \$57.2B 🔶🔴 | AI-robotics-autonomy | AI test equipment demand surge |
 | ADSK | [Companies/ADSK](Companies/ADSK.md) | \$50.5B 🔶🔴 | AI-robotics-autonomy | AEC software transition headwinds |
 | KMTUY | [Companies/KMTUY](Companies/KMTUY.md) | \$42.3B 🔶 | AI-robotics-autonomy | Mining and construction demand JPY 1.04T |
-| DSY | [Companies/DSY](Companies/DSY.md) | \$27.9B 🔶 | AI-robotics-autonomy | PLM sector valuation reset |
+| STM | [Companies/STM](Companies/STM.md) | \$36.6B 🔶 | semiconductor-ai-infrastructure | AWS partnership for compute infrastructure |
+| ON | [Companies/ON](Companies/ON.md) | \$31.3B 🔶 | semiconductor-ai-infrastructure | SiC leader; Treo platform pipeline >\$1B |
 | NTRA | [Companies/NTRA](Companies/NTRA.md) | ~$29B 🔶 | liquid-biopsy-mrd | Signatera (MRD) gold standard; 2026 Rev \$2.6B+ |
+| DSY | [Companies/DSY](Companies/DSY.md) | \$27.9B 🔶 | AI-robotics-autonomy | PLM sector valuation reset |
+| TSEM | [Companies/TSEM](Companies/TSEM.md) | \$23.5B 🔶 | israel-tech | Analog foundry leader; AI networking expansion |
 | CRCL | [Companies/CRCL](Companies/CRCL.md) | ~$26B 🔶 | fintech | Arc Blockchain L1 launch H2 2026 |
 | ILMN | [Companies/ILMN](Companies/ILMN.md) | ~$20.1B 🔶 | next-gen-sequencing | NovaSeq X ramp; multiomics expansion |
 | CCJ | [Companies/CCJ](Companies/CCJ.md) | ~$23B 🔶 | uranium-nuclear-energy | McArthur River/Cigar Lake ramp |
 | BWXT | [Companies/BWXT](Companies/BWXT.md) | ~$21.8B 🔶 | uranium-nuclear-energy | Naval nuclear + SMR leader |
+| MKSI | [Companies/MKSI](Companies/MKSI.md) | \$18.1B 🔶 | semiconductor-ai-infrastructure | Semi equipment growth; vacuum solutions |
 | PTC | [Companies/PTC](Companies/PTC.md) | \$18.7B 🔶 | AI-robotics-autonomy | Steady SaaS transition play |
 | TRMB | [Companies/TRMB](Companies/TRMB.md) | \$15.8B 🔶 | AI-robotics-autonomy | Industrial tech + software; FY26 EPS \$3.42+ |
 | GH | [Companies/GH](Companies/GH.md) | \$13.22B 🔶 | liquid-biopsy-mrd | Shield screening test launch; rev growth accelerating |
@@ -126,6 +144,7 @@
 | ARKG | [Companies/ARKG](Companies/ARKG.md) | Genomic Revolution | CRISPR, Diagnostics | CRSP, TWST, TEM, TXG, BEAM |
 | ARKF | [Companies/ARKF](Companies/ARKF.md) | Fintech | Blockchain, Digital Wallets | SHOP, BTC, CRCL, COIN, SQ |
 | ARKX | [Companies/ARKX](Companies/ARKX.md) | Space & Defense | Orbital, Satellite, Defense | LHX, TER, RKLB, KTOS, DE |
+| AAKI | [Companies/AAKI](Companies/AAKI.md) | AI & Robotics | European AI Benchmark | TSLA, TER, AMD, PLTR, TSM |
 | PRNT | [Companies/PRNT](Companies/PRNT.md) | 3D Printing | Additive Manufacturing | XRAY, SIE, PRLB, ADSK, PTC |
 | IZRL | [Companies/IZRL](Companies/IZRL.md) | Israel Tech | Israeli Innovation | TSEM, BWAY, CGEN, ESLT, CAMT |
 | QTUM | [Companies/QTUM](Companies/QTUM.md) | Quantum | Computing & ML | TER, NOK, TSEM, COHR, MKSI |
@@ -219,6 +238,4 @@
 - Decision abbreviations: CONVICTION BUY / WATCHLIST / ALERT / LOVE THE STORY, WAIT / WAIT / SPECULATIVE / SMALL / MONITOR ONLY / PASS
 - Kill Switch (KS): stock up >50% in 3 months → Price Score capped at 30 (WAIT band)
 - Analysis rows: slug links to `wiki/analysis/[slug].md`; question column is the verbatim query that prompted it
-- Scoring framework: criteria-stanley.md (Stanley Invest v8.1); old 21-pt criteria.md deleted 2026-04-13
-it
 - Scoring framework: criteria-stanley.md (Stanley Invest v8.1); old 21-pt criteria.md deleted 2026-04-13

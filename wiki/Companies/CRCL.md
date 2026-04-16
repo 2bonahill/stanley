@@ -1,7 +1,7 @@
 # Circle Internet Group (CRCL) 🔶
 
 ## Watchlist Status
-> 🔶 **LARGE CAP — The "Economic OS" of the internet.** [Arc Blockchain L1 launch H2 2026; pivot from interest income to protocol fees].
+> 🔶 **LARGE CAP — The "Economic OS" of the internet.** [Arc Blockchain mainnet scheduled for 2026; USDC market cap hitting record $77B+].
 
 ---
 
@@ -13,28 +13,28 @@
 To raise global economic prosperity through the frictionless exchange of value over the internet.
 
 **2. TEAM & DRIVE**
-Founder-led by Jeremy Allaire. Resilience shown through multiple crypto cycles and the successful navigation of the 2025 IPO.
+Founder-led by Jeremy Allaire. Resilience shown through successful June 2025 IPO and the navigation of the Arc "stablechain" development.
 
 **3. PRODUCTS, SERVICES & GOALS**
-USDC (Stablecoin), Arc Blockchain (Layer 1), Circle Payments Network (CPN). Goal: Becoming the foundational infrastructure for real-time global settlement.
+USDC ($77B+ cap), Arc Blockchain (Testnet live, Mainnet Beta H2 2026), Circle Payments Network. Goal: Arc to become the sub-second settlement layer for global finance.
 
 **4. KEY METRICS IN 2–3 YEARS**
-- USDC Circulation: $150B+ (2025: $75B)
-- Arc Protocol Revenue: $500M+
-- CPN Enrolled Institutions: 200+
+- USDC Circulation: $150B+ (April 2026: $77.8B)
+- Revenue: $4B+ (Q4 25 annualized: ~$3.1B)
+- Arc Transactions: 1B+ per month
 
 **5. PRICE CATALYSTS**
 - Q1 2026 Earnings (2026-05-11)
-- Arc Blockchain Mainnet Launch (H2 2026)
+- Arc Mainnet Beta Launch (H2 2026)
 
 **6. ENTRY PRICE ANCHOR**
-$80.00-$85.00 (Reference only)
+$85.00 (Reference) | Current: $105.72
 
 **7. THESIS KILLER**
-Fed-driven interest rate cuts to <1% (crippling reserve income) or a failure of the Arc Blockchain to gain institutional traction.
+A "Central Bank Digital Currency" (CBDC) rollout in the US that displaces private regulated stablecoins like USDC.
 
 **8. INVESTMENT HYPOTHESIS**
-Circle is the "Visa of the blockchain era." By bridging regulated fiat with programmable internet protocols, it creates a moat that competitors (like the unregulated Tether) cannot match in institutional or enterprise use cases.
+Circle is the "Visa of the blockchain era." Its 2025 IPO and Q4 2025 earnings beat ($0.43 EPS vs $0.25 expected) prove it can monetize beyond interest income through protocol fees. The Arc Blockchain—using USDC as a native gas token—creates a self-sustaining ecosystem that competitors like Tether cannot replicate in a regulated environment.
 
 ---
 
@@ -42,9 +42,9 @@ Circle is the "Visa of the blockchain era." By bridging regulated fiat with prog
 
 **MISSION** — Build the internet's economic operating system through regulated stablecoins and programmable infrastructure.
 
-**TEAM** — Jeremy Allaire (Founder/CEO), a long-term architect of internet-scale software systems.
+**TEAM** — Jeremy Allaire (Founder/CEO), a veteran architect of internet-scale systems with a successful public-market track record.
 
-**THESIS KILLER** — A "Central Bank Digital Currency" (CBDC) rollout in the US that displaces private regulated stablecoins like USDC.
+**THESIS KILLER** — Fed-issued CBDC that eliminates the institutional niche for private stablecoins.
 
 ---
 
@@ -57,6 +57,6 @@ Circle is the "Visa of the blockchain era." By bridging regulated fiat with prog
 ## Watchlist Status
 - Theme: fintech
 - Exchange: NYSE
-- Market Cap: ~$26B
-- Price: ~$100.00
+- Market Cap: ~$25B
+- Price: ~$105.72
 - Last full rescore: 2026-04-16

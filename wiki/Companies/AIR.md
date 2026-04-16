@@ -1,7 +1,7 @@
-# AAR Corp (AIR) ⚠️
+# Airbus SE (AIR) 🔶🔴
 
 ## Watchlist Status
-> 🟡 **LOVE THE STORY, WAIT — Aviation aftermarket leader with strong defense momentum.** [Key catalysts: Investor Day May 12, HAECO integration. Risk: Aviation cycle peak].
+> 🔶🔴 **MEGA CAP — Global aerospace leader with a record-breaking 9,000+ aircraft backlog.** [Navigating supply chain bottlenecks to meet 2026 delivery targets].
 
 ---
 
@@ -10,86 +10,53 @@
 ### Full Investment Case
 
 **1. MISSION**
-To provide the most efficient and integrated aftermarket solutions to the global aviation and defense industry. (Mission Signal: STRONG — Clear leader in independent MRO and parts supply).
+To lead the journey toward clean aerospace by pioneering sustainable flight.
 
 **2. TEAM & DRIVE**
-Operator-led. CEO John Holmes has a strong track record of integrating strategic acquisitions (HAECO, ADI). Execution-focused culture.
+Led by CEO Guillaume Faury. Strong engineering culture and focus on industrial ramp-up. Proven resilience in managing complex global supply chains.
 
 **3. PRODUCTS, SERVICES & GOALS**
-Parts supply (45% growth), Repair & Engineering, Integrated Solutions. Target: $100M+ Adj. EBITDA per quarter achieved in Q3 FY26.
+Commercial aircraft (A220, A320neo family, A330neo, A350), Helicopters, and Defense/Space. Goal: Reaching "Rate 75" for the A320 family by 2027 and delivering 870 aircraft in 2026.
 
 **4. KEY METRICS IN 2–3 YEARS**
-- Revenue: $4.5B
-- Adjusted EBITDA Margin: 15%
-- ROIC: >15%
+- Annual Deliveries: 900+ (2026 target: 870)
+- Adjusted EBIT: €8B+ (2025: €6B+)
+- Free Cash Flow: €5B+
 
 **5. PRICE CATALYSTS**
-- Investor Day (May 12, 2026)
-- Integration of HAECO Americas milestones (H2 2026)
+- Investor Day (2026-05-12)
+- H2 2026 Delivery acceleration (recovery from Q1 dip)
 
 **6. ENTRY PRICE ANCHOR**
-Current ~$124. Wait for pullback to ~$105-110 for better asymmetry.
+N/A (Mega Cap Reference)
 
 **7. THESIS KILLER**
-Sharp decline in global flight hours or major defense spending cuts.
+Structural failure in the hydrogen (ZEROe) program or prolonged engine shortages (Pratt & Whitney) that freeze the narrowbody ramp-up.
 
 **8. INVESTMENT HYPOTHESIS**
-AAR is the "plumber" of the aviation industry, benefiting from the aging global fleet and the need for efficient maintenance. The integration of HAECO and ADI is creating a high-margin parts-plus-service powerhouse that is still underappreciated by the market.
+Airbus is one half of a global duopoly with a vastly superior backlog and safety narrative compared to its primary competitor. Its lead in the A321XLR segment and technical feasibility of hydrogen flight create a "green" moat that is currently under-appreciated by traditional valuation models.
 
 ---
 
 ### Compact Summary
 
-**MISSION** — Integrated aviation aftermarket solutions for commercial and defense fleets.
+**MISSION** — Lead sustainable aerospace through narrowbody dominance and the hydrogen (ZEROe) transition.
 
-**TEAM** — CEO John Holmes; strong acquisition integration track record; low executive turnover.
+**TEAM** — Guillaume Faury (CEO), an operations-focused leader managing a record 9,000+ aircraft backlog.
 
-**THESIS KILLER** — Collapse in global flight hours or major defense procurement shift away from sustainment.
-
----
-
-## Part I — Story Score: 76/100 — GREEN
-
-*Last scored: 2026-04-16*
-
-### Pillar I — Moat (18/25)
-Structural advantage in parts supply and global MRO network. High barriers to entry due to regulatory certifications and deep OEM relationships.
-
-### Pillar II — Mismatch (12/20)
-Market views it as a cyclical industrial; it is increasingly a high-margin parts platform with recurring government contracts.
-
-### Pillar III — Team (16/20)
-Strong "Say-Do" ratio, beating Q3 FY26 estimates. Effective capital allocation via strategic M&A.
-
-### Pillar IV — Business Model Quality (14/15)
-Parts supply growth (45%) driving margin expansion. Highly captive revenue via long-term defense sustainment contracts (e.g., U.S. Navy).
-
-### Pillar V — Growth Trajectory (16/20)
-Strong backlog and market share gains in a growing $50B+ aviation aftermarket.
+**THESIS KILLER** — Prolonged supply chain failure or a safety-critical flaw in the A320neo family that halts deliveries.
 
 ---
 
-## Part II — Ten-X Growth Score: 52/100 — EARLY
-[Story 76 ≥ 75]
-Growth is strong but a 10x requires significant multiple expansion or market consolidation that isn't yet fully evidenced.
+## Part I — Story Score: [CONTEXT FILE / SKIP SCORING]
 
----
-
-## Part III — Price Score: 48/100 — RED
-Trading near all-time highs with no technical dislocation. Valuation is fair relative to growth but lacks the "dislocation" required for a Conviction Buy.
-
----
-
-## Part IV — Decision Matrix
-| Story | Price | Signal | Action |
-|-------|-------|--------|--------|
-| GREEN | RED | LOVE THE STORY, WAIT | Add to watchlist; wait for pullback to $105-110. |
+> *Mission Signal: STRONG. Clear roadmap to net-zero aviation by 2035 via ZEROe.*
 
 ---
 
 ## Watchlist Status
 - Theme: defense-innovation
-- Exchange: NYSE
-- Market Cap: ~$5.0B ⚠️
-- Price: ~$123.77
+- Exchange: EPA (Euronext Paris)
+- Market Cap: ~$150B
+- Price: ~$165.00
 - Last full rescore: 2026-04-16
