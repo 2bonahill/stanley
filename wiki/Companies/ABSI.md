@@ -1,6 +1,6 @@
 # ABSI — Absci
 
-> **Status:** 🟢 WATCHLIST | **Cap:** ~$450M | **Theme:** [Genomic Revolution](../Themes/genomic-revolution.md)
+> **Status:** 🟢 WATCHLIST | **Cap:** ~$450M | **Theme:** [Multimodal AI Diagnostics](../Themes/multimodal-ai-diagnostics.md)
 > **Framework:** Stanley Invest v8.1 — Story 72 / Ten-X 84 / Price 68
 
 ---
@@ -37,5 +37,5 @@ Generative AI "Drug Creation" platform.
 ---
 
 ## Navigation
-- [Genomic Revolution Theme](../Themes/genomic-revolution.md)
+- 
 - [Watchlist](../../watchlist/stocks.json)

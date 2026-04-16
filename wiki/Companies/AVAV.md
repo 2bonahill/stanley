@@ -60,7 +60,7 @@ AVAV is the "bellwether" for the drone revolution. While trading at a high multi
 
 | Story | Price | Signal | Action |
 |-------|-------|--------|--------|
-| AMBER | RED | **WATCHLIST / HOLD** | ⚠️ Bellwether. Monitor for pullback or major contract win. |
+| AMBER | RED | **PASS** | ⚠️ Bellwether. Monitor for pullback or major contract win. |
 
 ---
 

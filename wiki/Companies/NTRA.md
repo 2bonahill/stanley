@@ -1,6 +1,6 @@
 # NTRA — Natera
 
-> **Status:** 🔶 LARGE CAP | **Cap:** ~$29.37B | **Theme:** [Genomic Revolution](../Themes/genomic-revolution.md)
+> **Status:** 🔶 LARGE CAP | **Cap:** ~$29.37B | **Theme:** [Liquid Biopsy & MRD](../Themes/liquid-biopsy-mrd.md)
 > **Framework:** Stanley Invest v8.1 — Reference Only
 
 ---
@@ -23,5 +23,5 @@ Leader in cell-free DNA (cfDNA) testing for oncology, women's health, and organ 
 ---
 
 ## Navigation
-- [Genomic Revolution Theme](../Themes/genomic-revolution.md)
+- 
 - [Watchlist](../../watchlist/stocks.json)

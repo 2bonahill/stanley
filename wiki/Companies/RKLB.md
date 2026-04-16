@@ -147,7 +147,7 @@ RKLB is the clearest public proxy for commercial space infrastructure outside Sp
 
 ## Decision
 
-**Story GREEN (75) × Price WAIT (Kill Switch) → LOVE STORY WAIT**
+**Story GREEN (75) × Price WAIT (Kill Switch) → LOVE THE STORY, WAIT**
 
 *Outstanding business and founder story; price is not in the entry zone. Monitor Neutron progress. If Neutron succeeds and cap holds, revenue can grow to justify valuation. If cap pulls back 30–40% with Neutron on track, reassess entry.*
 
@@ -182,7 +182,7 @@ RKLB is the clearest public proxy for commercial space infrastructure outside Sp
 ## Signals Log
 | Date | Signal | Importance | Source |
 |------|--------|------------|--------|
-| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 75 GREEN / 10x 74 STRONG / Price WAIT (Kill Switch) → LOVE STORY WAIT 🔶 | — | Internal |
+| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 75 GREEN / 10x 74 STRONG / Price WAIT (Kill Switch) → LOVE THE STORY, WAIT 🔶 | — | Internal |
 | 2026-04-12 | Q4 2025 earnings: FY2025 $602M (+121%). Cash $1.1B. Backlog $1.85B (+73%). 3 Neutron launches planned 2026. First flight vehicle at Wallops Q1 2026. | HIGH | SA Transcript |
 | 2026-03-30 | CEO Beck cuts salary to $1; forfeits 392K unvested RSUs | HIGH | SEC 8-K |
 | 2026-03-18 | $190M DoD contract: 20x HASTE hypersonic test launches | HIGH | GlobeNewswire |
@@ -191,7 +191,7 @@ RKLB is the clearest public proxy for commercial space infrastructure outside Sp
 | 2025-09-xx | CEO sold 2.5M shares; CFO sold ~874K shares | MEDIUM-NEG | Finviz insider |
 
 ## News Log
-- **2026-04-13:** Rescored to Stanley framework. LOVE STORY WAIT — Kill Switch applied; Price Score capped.
+- **2026-04-13:** Rescored to Stanley framework. LOVE THE STORY, WAIT — Kill Switch applied; Price Score capped.
 - **2026-04-06:** Motley Fool: "Why Rocket Lab's Rally Could Be Just Getting Started"
 - **2026-04-02:** Stock dropped 6% on geopolitical fears (tariff/defense uncertainty)
 - **2026-03-30:** Beck $1 salary + RSU forfeiture announced
@@ -208,5 +208,5 @@ RKLB is the clearest public proxy for commercial space infrastructure outside Sp
 - Cash: $1.1B | Backlog: $1.85B (+73% YoY)
 - Revenue FY2025: $602M (+121% YoY) | GM: ~26%
 - Story: 75/100 GREEN | 10x: 74/100 STRONG | Price: WAIT (Kill Switch)
-- Decision: LOVE STORY WAIT — outstanding story, price not in entry zone
+- Decision: LOVE THE STORY, WAIT — outstanding story, price not in entry zone
 - Status: 🔶 Large cap — wiki and signals tracked; lower priority than sub-$5B positions

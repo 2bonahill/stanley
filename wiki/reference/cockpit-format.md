@@ -5,9 +5,10 @@ Watchlist cards are grouped by Decision band.
 - `### 🎯 CONVICTION BUY`
 - `### 📡 WATCHLIST / ALERT`
 - `### 💎 SPECULATIVE / SMALL`
-- `### 📋 WATCHLIST / HOLD`
-- `### ⏳ LOVE STORY WAIT`
+- `### 📋 MONITOR ONLY`
+- `### ⏳ LOVE THE STORY, WAIT`
 - `### ⏸️ WAIT`
+- `### ⏸️ PASS`
 
 ### Card Format
 #### [TICKER](path) — Company Name

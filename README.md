@@ -1,8 +1,19 @@
-# Stanley
-
-Hallo Savo :-)
+# Delphium
 
 **[➔ Open Cockpit Dashboard](wiki/Cockpit.md)** — *Live alerts, watchlist scores, and latest signals.*
+
+---
+
+## 🏗️ Research Themes
+
+| Sector | Theme File |
+| :--- | :--- |
+| **Energy** | [Uranium & Nuclear](wiki/Themes/uranium-nuclear-energy.md) · [Portable Nuclear](wiki/Themes/portable-nuclear-energy.md) |
+| **Genomics** | [Next-Gen Sequencing](wiki/Themes/next-gen-sequencing.md) · [Liquid Biopsy & MRD](wiki/Themes/liquid-biopsy-mrd.md) · [Gene Editing](wiki/Themes/biotech-gene-editing.md) · [Spatial Biology](wiki/Themes/spatial-biology.md) |
+| **Biotech** | [Obesity](wiki/Themes/biotech-obesity.md) · [Rare Disease](wiki/Themes/biotech-rare-disease.md) · [AI Drug Discovery](wiki/Themes/AI-drug-discovery.md) · [Protein Degradation](wiki/Themes/biotech-protein-degradation.md) |
+| **Defense** | [Defense Innovation](wiki/Themes/defense-innovation.md) · [Drone Autonomy](wiki/Themes/drone-autonomy-defense.md) |
+| **AI & Future** | [Multimodal AI](wiki/Themes/multimodal-ai-diagnostics.md) · [Quantum Computing](wiki/Themes/quantum-computing.md) · [Space Tech](wiki/Themes/space-technology.md) · [Air Mobility](wiki/Themes/advanced-air-mobility.md) |
+| **Platforms** | [Synthetic Biology](wiki/Themes/synthetic-biology.md) · [Computational Discovery](wiki/Themes/computational-drug-discovery.md) · [Precision Diagnostics](wiki/Themes/precision-diagnostics.md) |
 
 ---
 

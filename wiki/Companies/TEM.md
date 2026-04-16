@@ -1,6 +1,6 @@
 # TEM — Tempus AI
 
-> **Status:** ⚠️ BELLWETHER | **Cap:** ~$10.1B | **Theme:** [Genomic Revolution](../Themes/genomic-revolution.md)
+> **Status:** ⚠️ BELLWETHER | **Cap:** ~$10.1B | **Theme:** [Multimodal AI Diagnostics](../Themes/multimodal-ai-diagnostics.md)
 > **Framework:** Stanley Invest v8.1 — Story 79 / Ten-X 82 / Price 58
 
 ---
@@ -38,5 +38,5 @@ The world's largest library of clinical and molecular data.
 ---
 
 ## Navigation
-- [Genomic Revolution Theme](../Themes/genomic-revolution.md)
+- 
 - [Watchlist](../../watchlist/stocks.json)

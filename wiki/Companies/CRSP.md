@@ -1,6 +1,6 @@
 # CRSP — CRISPR Therapeutics
 
-> **Status:** ⚠️ BELLWETHER | **Cap:** ~$5.1B | **Theme:** [Genomic Revolution](../Themes/genomic-revolution.md)
+> **Status:** ⚠️ BELLWETHER | **Cap:** ~$5.1B | **Theme:** [Biotech Gene Editing](../Themes/biotech-gene-editing.md)
 > **Framework:** Stanley Invest v8.1 — Story 74 / Ten-X 85 / Price 62
 
 ---
@@ -38,5 +38,5 @@ First company to commercialize a CRISPR-based therapy (Casgevy).
 ---
 
 ## Navigation
-- [Genomic Revolution Theme](../Themes/genomic-revolution.md)
+- 
 - [Watchlist](../../watchlist/stocks.json)

@@ -30,7 +30,7 @@ Core product: **Sublocade** (monthly buprenorphine injection). Goal: Reach $1B+ 
 - Settlement of remaining civil litigations.
 
 **6. ENTRY PRICE ANCHOR**
-Current Price: $32.52. Story 64 / Price 58. **WATCHLIST/HOLD**. Entry is compelling at $28 (retest of 200-DMA).
+Current Price: $32.52. Story 64 / Price 58. **MONITOR ONLY**. Entry is compelling at $28 (retest of 200-DMA).
 
 **7. THESIS KILLER**
 Major generic erosion of Sublocade or a new, superior long-acting injectable (LAI) opioid use disorder (OUD) treatment captures the majority of the US market.

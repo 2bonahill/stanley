@@ -33,7 +33,7 @@ Digital LiDAR advantage: digital receiver architecture (CMOS-based) allows Ouste
 3. Key autonomous vehicle or infrastructure win — a Tier-1 automotive or smart city contract win would validate the full autonomous systems platform
 
 **6. ENTRY PRICE ANCHOR**
-Current price: below $20 per Kaizen (buying there as of recent tweets). Market cap ~$1.37B. WATCHLIST/HOLD at current levels per agent scoring (Story 59, Price 62, both AMBER).
+Current price: below $20 per Kaizen (buying there as of recent tweets). Market cap ~$1.37B. MONITOR ONLY at current levels per agent scoring (Story 59, Price 62, both AMBER).
 
 **7. THESIS KILLER**
 The SAFE LiDAR Act is weakened, delayed, or exempted by lobbying — Chinese LiDAR remains available in US markets, removing Ouster's regulatory moat and exposing it to sustained Chinese price competition.
@@ -130,7 +130,7 @@ Key price inputs: market cap ~$1.37B; Kaizen buying "below $20." Stock at ~$14�
 
 | Story | Price | Signal | Action |
 |-------|-------|--------|--------|
-| AMBER (59) | AMBER (62) | **WATCHLIST/HOLD** | Watch SAFE LiDAR Act implementation (June 2026) and Q3 FY2026 earnings as the binary catalyst pair. |
+| AMBER (59) | AMBER (62) | **MONITOR ONLY** | Watch SAFE LiDAR Act implementation (June 2026) and Q3 FY2026 earnings as the binary catalyst pair. |
 
 **Ten-X overlay:** Not run (Story < 75)
 
@@ -139,7 +139,7 @@ Key price inputs: market cap ~$1.37B; Kaizen buying "below $20." Stock at ~$14�
 ## Part V — Entry Price Target
 
 **GREEN band:** Below $12 (if available — rare given recent buying)
-**AMBER band:** $12 — $20 (current — Kaizen actively buying here; WATCHLIST/HOLD zone)
+**AMBER band:** $12 — $20 (current — Kaizen actively buying here; MONITOR ONLY zone)
 **AVOID zone:** Above $25 before SAFE LiDAR Act results confirmed
 
 **Valuation basis:** EV/forward revenue at 4–6x for a pre-profitability LiDAR platform approaching its main regulatory catalyst.
@@ -166,7 +166,7 @@ Key price inputs: market cap ~$1.37B; Kaizen buying "below $20." Stock at ~$14�
 ## Signals Log
 | Date | Signal | Importance | Source |
 |------|--------|------------|--------|
-| 2026-04-14 | NEW ENTRY via @Kaizen_Investor scan — "buying below $20. Q3 will be big due to SAFE LiDAR Act. Great founder-led company." Story 59 AMBER / Price 62 AMBER. WATCHLIST/HOLD. | MEDIUM | Twitter scan |
+| 2026-04-14 | NEW ENTRY via @Kaizen_Investor scan — "buying below $20. Q3 will be big due to SAFE LiDAR Act. Great founder-led company." Story 59 AMBER / Price 62 AMBER. MONITOR ONLY. | MEDIUM | Twitter scan |
 | 2026-04-14 | ZED X Nano launched — 40% smaller, mounts to robot wrists, high-res stereo vision for factory robotics | MEDIUM-POS | Ouster PR |
 | 2026-02-xx | Stereolabs acquisition closed — adds ZED camera family; computer vision depth platform | HIGH-POS | Ouster IR |
 | 2026-xx | SAFE LiDAR Act passed — bans Chinese LiDAR from US government/infrastructure procurement; implementation June 2026 | HIGH-POS | Congress |

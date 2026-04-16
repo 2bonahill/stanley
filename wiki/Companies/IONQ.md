@@ -83,7 +83,7 @@ IonQ is the only publicly traded pure-play trapped-ion quantum company with $130
 
 | Story | Price | Signal | Action |
 |-------|-------|--------|--------|
-| GREEN (75) | RED (47) | **LOVE STORY WAIT** | Wait for price score to reach AMBER (≥50); target GREEN band $20–$25 for first tranche |
+| GREEN (75) | RED (47) | **LOVE THE STORY, WAIT** | Wait for price score to reach AMBER (≥50); target GREEN band $20–$25 for first tranche |
 
 ---
 
@@ -107,7 +107,7 @@ IonQ is the only publicly traded pure-play trapped-ion quantum company with $130
 | Date | Signal | Importance | Source |
 |------|--------|------------|--------|
 | 2026-04-12 | Cantor conference: $235M guidance confirmed. Oxford Ionics collaboration on 6th-gen chip. 99.99% two-qubit fidelity maintained at commercial deployment. | MEDIUM | [SA Transcript](https://seekingalpha.com/article/4881154-ionq-inc-ionq-presents-at-2026-cantor-global-technology-and-industrial-growth-conference) |
-| 2026-04-12 | REFRESH: Price $28.79. Story GREEN / Price RED = Love Story Wait. | — | Internal |
+| 2026-04-12 | REFRESH: Price $28.79. Story GREEN / Price RED = LOVE THE STORY, WAIT. | — | Internal |
 ...
 | 2025-06-xx | CEO Chapman sold ~$104.8M; Chair sold ~$230M — combined $334M selling | HIGH-NEG | SEC Form 4 |
 

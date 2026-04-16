@@ -160,7 +160,7 @@ Fluence trades at ~0.49x EV/FY2026 revenue after a brutal Q1 earnings miss, but 
 
 | Story | Price | Signal | Action |
 |-------|-------|--------|--------|
-| AMBER (57) | AMBER (63) | **WATCHLIST/HOLD** | Tranche 1 possible at $13–18 AMBER band. Full deploy only on Q2 margin recovery above 10%. |
+| AMBER (57) | AMBER (63) | **MONITOR ONLY** | Tranche 1 possible at $13–18 AMBER band. Full deploy only on Q2 margin recovery above 10%. |
 
 **Ten-X overlay:** Not run (Story < 75)
 
@@ -199,7 +199,7 @@ Grid-scale BESS integrator. Does NOT manufacture battery cells — sources LFP (
 ## Signals Log
 | Date | Signal | Importance | Source |
 |------|--------|------------|--------|
-| 2026-04-14 | NEW ENTRY via @Kaizen_Investor scan — owns FLNC. Story 57 AMBER / Price 63 AMBER. WATCHLIST/HOLD. Watch trigger: Q2 gross margin above 10%. | MEDIUM | Twitter scan |
+| 2026-04-14 | NEW ENTRY via @Kaizen_Investor scan — owns FLNC. Story 57 AMBER / Price 63 AMBER. MONITOR ONLY. Watch trigger: Q2 gross margin above 10%. | MEDIUM | Twitter scan |
 | 2026-04-10 | Susquehanna lowers PT to $23 (from $28), maintains Buy. Median analyst PT $18.50 | MEDIUM | Susquehanna |
 | 2026-04-06 | Fluence reaffirms domestic content product availability — LFP Tennessee supply chain NDAA/ITC compliant. Key competitive moat confirmed. | HIGH-POS | GlobeNewswire |
 | 2026-02-06 | Q1 FY2026 earnings: gross margin collapsed to 4.9% (vs 13.7% FY2025). EPS -$0.71, missed by -88%. Two project-level cost overruns. Stock -24.4% on earnings day. | HIGH-NEG | Fluence IR |

@@ -19,23 +19,23 @@ In November 2025, the **ARK Space Exploration & Innovation ETF** officially rebr
 ## Theme Components
 
 ### 🟢 Watchlist / Small Cap (<$5B)
-- **[IRDM](Companies/IRDM.md)**: Global L-band comms + PNT (Alternative GPS).
-- **[ONDS](Companies/ONDS.md)**: Tactical drones + private wireless for defense.
-- **[RCAT](Companies/RCAT.md)**: Small tactical drones (Army SRR program).
+- **[IRDM](../Companies/IRDM.md)**: Global L-band comms + PNT (Alternative GPS).
+- **[ONDS](../Companies/ONDS.md)**: Tactical drones + private wireless for defense.
+- **[RCAT](../Companies/RCAT.md)**: Small tactical drones (Army SRR program).
 
 ### ⚠️ Bellwethers ($5B–$12B)
-- **[AVAV](Companies/AVAV.md)**: The leader in loitering munitions (Switchblade).
-- **[JOBY](Companies/JOBY.md)**: Air mobility for medevac and logistics.
+- **[AVAV](../Companies/AVAV.md)**: The leader in loitering munitions (Switchblade).
+- **[JOBY](../Companies/JOBY.md)**: Air mobility for medevac and logistics.
 
 ### 🔶 Large Cap ($12B–$50B)
-- **[KTOS](Companies/KTOS.md)**: Low-cost jet drones and hypersonic targets.
-- **[BWXT](Companies/BWXT.md)**: Microreactors and nuclear propulsion.
-- **[RKLB](Companies/RKLB.md)**: Rapid launch and dedicated defense orbital services.
+- **[KTOS](../Companies/KTOS.md)**: Low-cost jet drones and hypersonic targets.
+- **[BWXT](../Companies/BWXT.md)**: Microreactors and nuclear propulsion.
+- **[RKLB](../Companies/RKLB.md)**: Rapid launch and dedicated defense orbital services.
 
 ### 🔶🔴 Mega Cap (>$50B)
 - **LMT (Lockheed Martin)**: Legacy prime pivoting to JADC2.
 - **NOC (Northrop Grumman)**: B-21 and LEO satellite dominance.
-- **LHX (L3Harris)**: Software-defined radio and space sensing.
+- **[LHX](../Companies/LHX.md)**: Software-defined radio and space sensing.
 
 ---
 

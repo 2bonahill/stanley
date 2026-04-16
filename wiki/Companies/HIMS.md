@@ -159,7 +159,7 @@ HIMS trades at ~1.4x forward EV/Revenue on a $2.35B business with 85% subscriber
 
 | Story | Price | Signal | Action |
 |-------|-------|--------|--------|
-| AMBER (57) | AMBER (62) | **WATCHLIST/HOLD** | Tranche 1 possible at $18–24 AMBER band. Full position only on Q1 2026 subscriber retention + GM stabilization above 68%. |
+| AMBER (57) | AMBER (62) | **MONITOR ONLY** | Tranche 1 possible at $18–24 AMBER band. Full position only on Q1 2026 subscriber retention + GM stabilization above 68%. |
 
 **Ten-X overlay:** Not run (Story < 75)
 
@@ -193,7 +193,7 @@ Telehealth subscription platform. Core technology: proprietary online consultati
 ## Signals Log
 | Date | Signal | Importance | Source |
 |------|--------|------------|--------|
-| 2026-04-14 | NEW ENTRY via @Kaizen_Investor scan — "perfectly positioned for GLP-1 wave". Story 57 AMBER / Price 62 AMBER. WATCHLIST/HOLD. Watch trigger: Q1 2026 subscriber retention + GM >68%. | MEDIUM | Twitter scan |
+| 2026-04-14 | NEW ENTRY via @Kaizen_Investor scan — "perfectly positioned for GLP-1 wave". Story 57 AMBER / Price 62 AMBER. MONITOR ONLY. Watch trigger: Q1 2026 subscriber retention + GM >68%. | MEDIUM | Twitter scan |
 | 2026-04-xx | Data breach (Zendesk) — class action investigations filed | MEDIUM-NEG | Press reports |
 | 2026-03-09 | Novo Nordisk partnership — HIMS distributes branded Wegovy/Ozempic at $149/month. Novo drops lawsuit. Stock +50% premarket. | HIGH-POS | HIMS IR |
 | 2026-02-09 | Novo Nordisk sues HIMS over compounded semaglutide products | HIGH-NEG | Reuters |

@@ -176,7 +176,7 @@ Wait — Pillar IV max is 15 pts across two criteria. Max 9 is incorrect. Let me
 
 ## Decision
 
-**Story AMBER (59) × Price GREEN (71) → SPECULATIVE/SMALL**
+**Story AMBER (59) × Price GREEN (71) → SPECULATIVE / SMALL**
 
 *Story AMBER + Price GREEN = SPECULATIVE position. Size small (25–33% of a normal position). The lock-up expiry on May 3, 2026 is the critical near-term event — if insiders hold, add to full position. If heavy insider selling, reassess.*
 
@@ -212,7 +212,7 @@ Wait — Pillar IV max is 15 pts across two criteria. Max 9 is incorrect. Let me
 ## Signals Log
 | Date | Signal | Importance | Source |
 |------|--------|------------|--------|
-| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 59 AMBER / No 10x / Price 71 GREEN → SPECULATIVE/SMALL | — | Internal |
+| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 59 AMBER / No 10x / Price 71 GREEN → SPECULATIVE / SMALL | — | Internal |
 | 2026-04-12 | Hawaii inter-island cargo deal — first commercial deployment agreement | HIGH | WCAX |
 | 2026-05-03 | Lock-up expiry — 59% insider ownership; watch for post-lock-up selling pressure | MEDIUM-NEG | Internal |
 | 2026-04-10 | Tudor Investment Corp invests $3.67M in BETA — institutional accumulation | MEDIUM | Daily Political |
@@ -224,7 +224,7 @@ Wait — Pillar IV max is 15 pts across two criteria. Max 9 is incorrect. Let me
 | 2025-11-04 | IPO NYSE at $34/share; raises ~$1.01B | HIGH | Fast Company |
 
 ## News Log
-- **2026-04-13:** Rescored to Stanley framework. SPECULATIVE/SMALL — Story AMBER (59), Price GREEN (71).
+- **2026-04-13:** Rescored to Stanley framework. SPECULATIVE / SMALL — Story AMBER (59), Price GREEN (71).
 - **2026-04-12:** Hawaii inter-island cargo deal — first confirmed commercial deployment.
 - **2026-03-10:** MV250 military drone accelerated 6 months; FAA grants won.
 - **2026-03-09:** Selected for DOT/FAA eIPP — 7 of 8 programs, 26 states.
@@ -246,5 +246,5 @@ Wait — Pillar IV max is 15 pts across two criteria. Max 9 is incorrect. Let me
 - Revenue TTM: $35.62M | Insider ownership: 59.16%
 - Analyst consensus: Strong Buy (8 analysts), avg $35.75 (+115% upside)
 - Story: 59/100 AMBER | 10x: N/A | Price: 71/100 GREEN
-- Decision: SPECULATIVE/SMALL — size small; watch lock-up expiry May 3
+- Decision: SPECULATIVE / SMALL — size small; watch lock-up expiry May 3
 - Status: 🟢

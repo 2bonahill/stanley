@@ -147,7 +147,7 @@ EV ≈ $1.0B (EV/Net Cash 1.7x) for a company with Phase 3 data imminent (HAELO 
 
 ## Decision
 
-**Story AMBER (61) × Price AMBER (60) → WATCHLIST/ALERT**
+**Story AMBER (61) × Price AMBER (60) → WATCHLIST / ALERT**
 
 **HAELO data H1 2026 is the trigger.** Set alert. Do not deploy full position ahead of binary data.
 - Tranche 1 (50%): Deploy on HAELO positive readout (stock likely gaps up; enter at the open if thesis remains intact)
@@ -174,7 +174,7 @@ In vivo CRISPR via lipid nanoparticles (LNP) for liver delivery — Cas9 mRNA + 
 ## Signals Log
 | Date | Signal | Importance | Source |
 |------|--------|------------|--------|
-| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 61 AMBER / No 10x / Price 60 AMBER → WATCHLIST/ALERT | — | Internal |
+| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 61 AMBER / No 10x / Price 60 AMBER → WATCHLIST / ALERT | — | Internal |
 | 2026-04-12 | HAELO Phase 3 fully enrolled (80 pts); data H1 2026. Cash $605M. MAGNITUDE hold lifted. BLA target H2 2026. | HIGH | SA Transcript |
 | 2026-03-02 | FDA clinical hold on MAGNITUDE Phase 3 LIFTED | HIGH | Intellia IR |
 | 2026-01-05 | Director Fred Cohen bought $1M open-market | HIGH | SEC Form 4 |
@@ -187,5 +187,5 @@ In vivo CRISPR via lipid nanoparticles (LNP) for liver delivery — Cas9 mRNA + 
 - Theme: biotech-gene-editing | Exchange: NASDAQ
 - Market Cap: ~$1.63B 🟢 | Cash: $605M (runway H2 2027)
 - Story: 61/100 AMBER | 10x: N/A | Price: 60/100 AMBER
-- Decision: WATCHLIST/ALERT — set alert for HAELO data H1 2026
+- Decision: WATCHLIST / ALERT — set alert for HAELO data H1 2026
 - Status: 🟢

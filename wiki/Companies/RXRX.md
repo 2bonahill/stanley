@@ -152,7 +152,7 @@ EV/Net Cash of 1.36x for a company with Eli Lilly, Sanofi, Roche, Genentech, and
 
 ## Decision
 
-**Story AMBER (59) × Price AMBER (53) → WATCHLIST/HOLD**
+**Story AMBER (59) × Price AMBER (53) → MONITOR ONLY**
 
 *Insider selling is the dominant negative. EV/Net Cash 1.36x is exceptional value IF the platform thesis holds. Do not deploy until either: (1) new CEO Najat Khan makes an open-market purchase, or (2) first Lilly milestone payment is announced (validates the platform). Speculative entry only.*
 
@@ -177,7 +177,7 @@ RecursionOS: automated biology labs generate petabytes of phenomics data from ce
 ## Signals Log
 | Date | Signal | Importance | Source |
 |------|--------|------------|--------|
-| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 59 AMBER / No 10x / Price 53 AMBER → WATCHLIST/HOLD (insider selling dominant negative) | — | Internal |
+| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 59 AMBER / No 10x / Price 53 AMBER → MONITOR ONLY (insider selling dominant negative) | — | Internal |
 | 2026-03-29 | Eli Lilly $2.75B AI drug discovery collaboration signed | HIGH | CNBC |
 | 2026-02-25 | Q4 2025 revenue $35.5M (+689% YoY vs $4.5M Q4 2024) | HIGH | GlobeNewswire |
 | 2026-01-01 | CEO transition: Gibson → Najat Khan | MEDIUM-NEG | Recursion IR |
@@ -191,5 +191,5 @@ RecursionOS: automated biology labs generate petabytes of phenomics data from ce
 - Market Cap: ~$1.78B 🟢 | Cash: $753.9M (runway early 2028)
 - EV: ~$1.026B (EV/Net Cash 1.36x)
 - Story: 59/100 AMBER | 10x: N/A | Price: 53/100 AMBER
-- Decision: WATCHLIST/HOLD — exceptional cash-backing but all insiders selling; wait for CEO open-market buy or first Lilly milestone
+- Decision: MONITOR ONLY — exceptional cash-backing but all insiders selling; wait for CEO open-market buy or first Lilly milestone
 - Status: 🟢

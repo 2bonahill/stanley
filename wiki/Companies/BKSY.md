@@ -152,7 +152,7 @@ BlackSky is the "Day Trader" of earth observation. While Planet (PL) looks at ev
 
 | Story | Price | Signal | Action |
 |-------|-------|--------|--------|
-| 🟡 AMBER | 🟡 AMBER | **WATCHLIST / HOLD** | Monitor Gen-3 deployment; buy on pullback <$9. |
+| 🟡 AMBER | 🟡 AMBER | **MONITOR ONLY** | Monitor Gen-3 deployment; buy on pullback <$9. |
 
 ---
 

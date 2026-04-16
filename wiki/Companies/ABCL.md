@@ -169,7 +169,7 @@ At $1.07B cap with $700M in cash (65% of market cap), AbCellera's stock is effec
 
 ## Decision
 
-**Story AMBER (56) × Price GREEN (76) → SPECULATIVE/SMALL**
+**Story AMBER (56) × Price GREEN (76) → SPECULATIVE / SMALL**
 
 *Story AMBER + Price GREEN = SPECULATIVE position. The valuation case here is exceptionally strong (EV = 0.53x net cash; CEO buying at $2.16). Size small but deploy Tranche 1 now — the cash backing provides meaningful downside protection even if ABCL635 fails. Position sizing limit: ~25–33% of normal allocation due to AMBER story score.*
 
@@ -207,7 +207,7 @@ At $1.07B cap with $700M in cash (65% of market cap), AbCellera's stock is effec
 ## Signals Log
 | Date | Signal | Importance | Source |
 |------|--------|------------|--------|
-| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 56 AMBER / No 10x / Price 76 GREEN → SPECULATIVE/SMALL | — | Internal |
+| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 56 AMBER / No 10x / Price 76 GREEN → SPECULATIVE / SMALL | — | Internal |
 | 2026-04-12 | KeyBanc Healthcare Forum: Cash confirmed $700M. Annual burn $120–130M (~5.5yr runway). GMP manufacturing fully operational. ABCL635 Phase 2 data Q3 2026 on track. Management emphasizes royalty tail from 100+ partnerships as underappreciated. | MEDIUM | SA Transcript |
 | 2026-04-12 | Refresh: price $3.54, cap $1.07B. Q1 2026 earnings May 11, 2026. Bloom Burton conference Apr 21–22. | — | Internal |
 | 2026-04-10 | Tudor Investment Corp invests $3.67M — institutional accumulation at current levels | MEDIUM | Daily Political |
@@ -217,7 +217,7 @@ At $1.07B cap with $700M in cash (65% of market cap), AbCellera's stock is effec
 | 2025-ongoing | Carl Hansen open-market buys: $742K at ~$2.16; prior $859K. Director Montalbano $178K at $3.57 | HIGH | SEC Form 4 |
 
 ## News Log
-- **2026-04-13:** Rescored to Stanley framework. SPECULATIVE/SMALL — Story AMBER (56), Price GREEN (76). EV = 0.53x net cash = exceptional cash backing.
+- **2026-04-13:** Rescored to Stanley framework. SPECULATIVE / SMALL — Story AMBER (56), Price GREEN (76). EV = 0.53x net cash = exceptional cash backing.
 - **2026-04-12:** KeyBanc Forum — $700M cash confirmed, GMP facility operational, Q3 2026 Phase 2 data on track.
 - **2026-04-03:** SAHM Capital: "AbCellera quietly rewriting investment story with cash reserves and advancing trials."
 - **2026-02-25:** Q4 2025 earnings — $680M liquidity confirmed; burn ~$30M/quarter (~5.5yr runway).
@@ -239,5 +239,5 @@ At $1.07B cap with $700M in cash (65% of market cap), AbCellera's stock is effec
 - Short float: 21.69% ⚠️
 - Analyst consensus: Strong Buy (5 analysts), avg $8.40 (+137% upside)
 - Story: 56/100 AMBER | 10x: N/A | Price: 76/100 GREEN
-- Decision: SPECULATIVE/SMALL — EV below net cash; CEO buying; size small
+- Decision: SPECULATIVE / SMALL — EV below net cash; CEO buying; size small
 - Status: 🟢

@@ -1,6 +1,6 @@
 # ILMN — Illumina
 
-> **Status:** 🔶 LARGE CAP | **Cap:** ~$20.1B | **Theme:** [Genomic Revolution](../Themes/genomic-revolution.md)
+> **Status:** 🔶 LARGE CAP | **Cap:** ~$20.1B | **Theme:** [Next-Gen Sequencing](../Themes/next-gen-sequencing.md)
 > **Framework:** Stanley Invest v8.1 — Reference Only
 
 ---
@@ -23,5 +23,5 @@ The global leader in next-generation sequencing (NGS).
 ---
 
 ## Navigation
-- [Genomic Revolution Theme](../Themes/genomic-revolution.md)
+- 
 - [Watchlist](../../watchlist/stocks.json)

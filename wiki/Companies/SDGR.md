@@ -154,7 +154,7 @@ Actually recalculating: 26+16+7+9 = 58/100 AMBER.
 
 ## Decision
 
-**Story AMBER (58) × Price AMBER (58) → WATCHLIST/HOLD**
+**Story AMBER (58) × Price AMBER (58) → MONITOR ONLY**
 
 *The SaaS business (EV/GP 3x) makes this a value setup that is rarely seen. SGR-3515 data H1 2026 is the binary re-rating event. Small speculative entry is justified by the software floor; do not deploy full position until insider buying or SGR-3515 data confirms.*
 
@@ -185,7 +185,7 @@ Actually recalculating: 26+16+7+9 = 58/100 AMBER.
 ## Signals Log
 | Date | Signal | Importance | Source |
 |------|--------|------------|--------|
-| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 58 AMBER / No 10x / Price 58 AMBER → WATCHLIST/HOLD | — | Internal |
+| 2026-04-13 | Rescored under Stanley Invest v8.1: Story 58 AMBER / No 10x / Price 58 AMBER → MONITOR ONLY | — | Internal |
 | 2026-05-06 | Q1 2026 earnings date (upcoming) | MEDIUM | StockAnalysis |
 | 2026-H1 | SGR-3515 Phase 1 data (solid tumors) — key catalyst | HIGH | IR |
 | 2026-03 | CEO Farid + Director Akinsanya sold shares at $12.90–$12.91 | MEDIUM-NEG | SEC Form 4 |
@@ -199,5 +199,5 @@ Actually recalculating: 26+16+7+9 = 58/100 AMBER.
 - Market Cap: ~$839M 🟢 | Cash: ~$300M | EV: ~$539M
 - Revenue TTM: $255.87M (+23.3%) | GM: ~70% blended | EV/GP: ~3x
 - Story: 58/100 AMBER | 10x: N/A | Price: 58/100 AMBER
-- Decision: WATCHLIST/HOLD — SaaS moat at EV/GP 3x provides floor; SGR-3515 H1 2026 is re-rating catalyst
+- Decision: MONITOR ONLY — SaaS moat at EV/GP 3x provides floor; SGR-3515 H1 2026 is re-rating catalyst
 - Status: 🟢

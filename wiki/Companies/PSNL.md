@@ -1,6 +1,6 @@
 # PSNL — Personalis
 
-> **Status:** 🟢 WATCHLIST | **Cap:** ~$693M | **Theme:** [Genomic Revolution](../Themes/genomic-revolution.md)
+> **Status:** 🟢 WATCHLIST | **Cap:** ~$693M | **Theme:** [Liquid Biopsy & MRD](../Themes/liquid-biopsy-mrd.md)
 > **Framework:** Stanley Invest v8.1 — Story 76 / Ten-X 88 / Price 72
 
 ---
@@ -38,5 +38,5 @@ Strategic pivot to ultra-sensitive MRD diagnostics.
 ---
 
 ## Navigation
-- [Genomic Revolution Theme](../Themes/genomic-revolution.md)
+- 
 - [Watchlist](../../watchlist/stocks.json)

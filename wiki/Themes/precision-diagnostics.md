@@ -19,6 +19,7 @@ Precision diagnostics leverage genomic, proteomic, and transcriptomic data to pr
 |---------|--------|
 | Exact Sciences (EXAS) | High marketing spend and slowing Cologuard growth; monitoring for MRD inflection. |
 | Guardant Health (GH) | High cash burn and competitive pressure in the screening market. |
+| Dentsply Sirona (XRAY) | Legacy dental incumbent; negative growth and high debt service. |
 
 ## Key Trends
 - **2026-04**: MRD launch wave. Veracyte (TrueMRD) and others are racing to validate clinical utility for post-treatment monitoring.
