@@ -1,4 +1,6 @@
-# Delphium
+# Stanley
+
+Hallo Savo :-)
 
 **[➔ Open Cockpit Dashboard](wiki/Cockpit.md)** — *Live alerts, watchlist scores, and latest signals.*
 
